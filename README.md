@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fpuntel/fGoRestaurantWeb?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fpuntel/GoRestaurantWeb?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by fpuntel" src="https://img.shields.io/badge/made%20by-fpuntel-%2304D361">
