@@ -1,3 +1,4 @@
+## :rocket: GoRestaurant
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fpuntel/GoRestaurantWeb?color=%2304D361">
 
